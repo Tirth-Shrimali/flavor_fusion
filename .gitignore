@@ -1,0 +1,22 @@
+# Dependencies
+node_modules/
+
+# Environment / secrets
+.env
+.env.*
+*.env
+
+# Logs and cache
+*.log
+cache/
+tmp/
+*.cache
+
+# OS / editor generated
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+
+# AI tool / session metadata (do not publish)
+.freebuff/
